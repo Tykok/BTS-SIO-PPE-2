@@ -1,0 +1,10 @@
+Le fichier "Application" contient le code source de l'application (VB.Net)
+
+Le fichier "Base De Données" contient l'ensemble des informations relatives à la Base De Données,
+le fichier Bdd "PPE2.ssql" est le fichier à importer dans PhpMyAdmin pour utiliser l'application
+
+Le fichier "Ressources" contient le cahier des charges, le compte rendu final ainsi que l'exécutable de 
+l'application (solution)
+
+Pour que la connexion à PhpMyAdmin fonctionne la BDD doit être nommé 'ppe2', accessible en local ('localhost') et via un 
+utilisateur 'root' sans mot de passe !
